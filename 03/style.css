@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.container {
+    width: 1200px;
+    height: 1000px;
+    border: solid 5px red;
+    font-size: 16px;
+}
+
+.header {
+    width: 1200px;
+    height: 400px;
+    background: purple;
+    text-align: center;
+    /* padding: 0px 0px 0px 0px; */
+}
+
+.inheader {
+    width: 400px;
+    height: 200px;
+    background: white;
+    margin: 25px auto;
+    padding: 100px 0px 0px 0px;
+}
+
+.inheader2 {
+    width: 200px;
+    height: 100px;
+    background: black;
+    margin: 0 auto;
+}
+
+
+---------------------
+
+.clear {    
+    width: 1200px;
+    height: 300px;
+}
+
+.silver {
+    width: 1200px;
+    height: 50px;
+    background: silver;
+    text-align: center;
+}
+
+.silver2 {
+    width: 1200px;
+    height: 50px;
+    background: silver;
+    float: left;
+}
+
+
+.red {
+    width: 25%;
+    height: 100px;
+    background: red;
+    float: left;
+}
+
+.green {
+    width: 25%;
+    height: 100px;
+    background: green;
+    float: left;
+}
+
+.blue {
+    width: 25%;
+    height: 100px;
+    background: rgb(61, 133, 240);
+    float: left;
+}
+
+.black {
+    width: 25%;
+    height: 100px;
+    background: #000;
+    float: left;
+}
+
+/* ------------------------- */
+.container2 {
+    width: 1200px;
+    height: 300px;
+    clear: both;
+}
+
+.left {
+    width: 400px;
+    height: 300px;
+    background: green;
+    float: left;
+    text-align: center;
+}
+
+.inleft {
+    width: 50%;
+    height: 200px;
+    background: orange;
+    margin: 40px auto;
+}
+
+.inleft-a {
+    width: 50%;
+    height: 150px;
+    background: rgb(236, 16, 108);
+    margin-top: 31.87px;
+    float: left;
+}
+
+.inleft-b {
+    width: 50%;
+    height: 150px;
+    background: yellow;
+    margin-top: 31.87px;
+    float: left;
+}
+
+/* ------------------------ */
+
+.center {
+    width: 400px;
+    height: 300px;
+    background: rgb(61, 133, 240);
+    float: left;
+    text-align: center;
+}
+
+.center-left {
+    width: calc(100%/3);
+    height: 200px;
+    background: red;
+    margin-top: 81.87px;
+    float: left;
+}
+
+.center-center {
+    width: calc(100%/3);
+    height: 200px;
+    background: yellow;
+    margin-top: 81.87px;
+    float: left;
+}
+
+.a-c {
+    width: 50%;
+    height: 150px;
+    background: orange;
+    float: left;
+    margin-top: 31.87px;
+}
+
+.b-c {
+    width: 50%;
+    height: 100px;
+    background: red;
+    float: left;
+    margin-top: 81.87px;
+}
+
+.center-right {
+    width: calc(100%/3);
+    height: 200px;
+    background: orange;
+    float: right;
+    margin-top: 81.87px;
+    
+}
+
+/* ---------------------- */
+
+.right {
+    width: 400px;
+    height: 300px;
+    background: blue;
+    float: left;
+    text-align: center;
+}
+
+.right-left {
+    width: calc(100%/3);
+    height: 150px;
+    background: rgb(61, 133, 240);
+    float: left;
+    margin-top: 100px;
+}
+
+.right-center {
+    width: calc(100%/3);
+    height: 150px;
+    background: yellow;
+    float: left;
+    margin-top: 60px;
+}
+
+.right-right {
+    width: calc(100%/3);
+    height: 150px;
+    background: orange;
+    float: left;
+    margin-top: 20px;
+}
+
+.right1 {
+    width: 80px;
+    height: 30px;
+    background: #000;
+    float: right;
+    margin-top: 30px;
+    color: rgb(61, 133, 240);
+}
+
+.right2 {
+    width: 80px;
+    height: 30px;
+    background: #000;
+    float: left;
+    margin-top: 30px;
+    color: rgb(61, 133, 240);
+}
+
+.text {
+    margin-top: 5px;
+}
+
+/* ------------------- */
+
+.footer {
+    width: 1200px;
+    height: 100px;
+    background: #000;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+

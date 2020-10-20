@@ -1,0 +1,28 @@
+.height {
+    height: 200px;
+}
+
+.width {
+    width: 200px;
+}
+
+.bg {
+    background: #001;
+}
+
+.font-style {
+    font-style: italic;
+}
+
+.color {
+    color: red;
+}
+
+.text {
+    text-align: center;
+}
+
+.text-color {
+    color: blue;
+}
+
